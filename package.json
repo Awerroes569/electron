@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "electron": "^31.1.0"
+  },
+  "scripts": {
+    "start": "electron ./app/index.html"
+  }
+}
